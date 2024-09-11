@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-05T17:50:39 IST" name="Default suite" finished-at="2024-09-05T17:51:16 IST" duration-ms="36610">
+    <groups>
+    </groups>
+    <test started-at="2024-09-05T17:50:39 IST" name="Default test" finished-at="2024-09-05T17:51:16 IST" duration-ms="36610">
+      <class name="testNGPractice.DataProviderEx4OrgDetailsFromExcel">
+        <test-method signature="organizationModuleTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNGPractice.DataProviderEx4OrgDetailsFromExcel@74ea2410]" started-at="2024-09-05T17:50:40 IST" name="organizationModuleTest" data-provider="readExcelData" finished-at="2024-09-05T17:50:54 IST" duration-ms="13477" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AAA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1111]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organizationModuleTest -->
+        <test-method signature="organizationModuleTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNGPractice.DataProviderEx4OrgDetailsFromExcel@74ea2410]" started-at="2024-09-05T17:50:54 IST" name="organizationModuleTest" data-provider="readExcelData" finished-at="2024-09-05T17:51:04 IST" duration-ms="10493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[BBB]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2222]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[def@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organizationModuleTest -->
+        <test-method signature="organizationModuleTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNGPractice.DataProviderEx4OrgDetailsFromExcel@74ea2410]" started-at="2024-09-05T17:51:04 IST" name="organizationModuleTest" data-provider="readExcelData" finished-at="2024-09-05T17:51:16 IST" duration-ms="11361" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CCC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3333]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ghi@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organizationModuleTest -->
+      </class> <!-- testNGPractice.DataProviderEx4OrgDetailsFromExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
